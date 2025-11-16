@@ -1,10 +1,16 @@
 {
   "short_name": "AIT Compass",
   "name": "AIT Compass - Professional Direction Finder",
+  "description": "A beautiful circular compass app developed by MOSHIUR",
   "icons": [
     {
-      "src": "compass-icon.svg",
-      "type": "image/svg+xml",
+      "src": "compass-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "compass-icon-512.png", 
+      "type": "image/png",
       "sizes": "512x512"
     },
     {
