@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AIT Compass",
+  "name": "AIT Compass - Professional Direction Finder",
+  "description": "A beautiful circular compass app developed by MOSHIUR",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +9,19 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "compass-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "compass-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#667eea",
+  "background_color": "#764ba2",
+  "orientation": "portrait"
 }
