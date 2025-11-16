@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ait-compass/static/css/main.71829349.css",
-    "main.js": "/ait-compass/static/js/main.c1601b78.js",
+    "main.js": "/ait-compass/static/js/main.092ab337.js",
     "static/js/453.adf15a2a.chunk.js": "/ait-compass/static/js/453.adf15a2a.chunk.js",
     "index.html": "/ait-compass/index.html",
     "main.71829349.css.map": "/ait-compass/static/css/main.71829349.css.map",
-    "main.c1601b78.js.map": "/ait-compass/static/js/main.c1601b78.js.map",
+    "main.092ab337.js.map": "/ait-compass/static/js/main.092ab337.js.map",
     "453.adf15a2a.chunk.js.map": "/ait-compass/static/js/453.adf15a2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71829349.css",
-    "static/js/main.c1601b78.js"
+    "static/js/main.092ab337.js"
   ]
 }
